@@ -6,7 +6,7 @@
 /*   By: aistok <aistok@student.42london.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/24 16:49:44 by aistok            #+#    #+#             */
-/*   Updated: 2025/11/24 19:36:16 by aistok           ###   ########.fr       */
+/*   Updated: 2025/11/25 17:00:54 by aistok           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,7 +39,7 @@ class Obj2 : public Obj {
 
 	private:
 
-		std::string	_name;
+		//std::string	_name;
 
 };
 
