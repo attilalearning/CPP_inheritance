@@ -6,7 +6,7 @@
 /*   By: aistok <aistok@student.42london.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/24 16:56:00 by aistok            #+#    #+#             */
-/*   Updated: 2025/11/24 19:41:30 by aistok           ###   ########.fr       */
+/*   Updated: 2025/11/25 21:29:01 by aistok           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,6 +20,7 @@ int	main( void ) {
 	// o.act1();
 
 	Obj2 obj2("Obj2 TEST");
+	Obj2 obj2a;
 	return (0);
 }
 
